@@ -9,7 +9,9 @@ This repository is a challenge proposed by FullCycle with the following requirem
 
 The image is available on Docker Hub: [andrewcs0901/fullcycle](https://hub.docker.com/repository/docker/andrewcs0901/fullcycle/general)
 
+Or can be pulled with command:
 
+  `docker run andrewcs0901/fullcycle`
 
 ## Screenshots
 ![Alt text](/screenshots/image.png)
