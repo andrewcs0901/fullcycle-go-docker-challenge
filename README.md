@@ -12,4 +12,4 @@ The image is available on Docker Hub: [andrewcs0901/fullcycle](https://hub.docke
 
 
 ## Screenshots
-![Alt text](image.png)
+![Alt text](/screenshots/image.png)
